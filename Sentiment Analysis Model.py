@@ -1,0 +1,1 @@
+#Using FinBERT, a pre-trained NLP model to do financial sentiment analysis
